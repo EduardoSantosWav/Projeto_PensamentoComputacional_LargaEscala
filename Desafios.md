@@ -11,3 +11,4 @@
 ## Desafio 3: Performance de Imagens
 **Problema:** O design brutalista exige fotos de alta resolução, o que pode tornar o site lento.
 **Solução:** Utilização de compressão WebP e carregamento preguiçoso (Lazy Loading) para otimizar a velocidade de carregamento.
+-
