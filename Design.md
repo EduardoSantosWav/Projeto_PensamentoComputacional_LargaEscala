@@ -14,3 +14,4 @@ Na modelagem do sistema, abstraímos detalhes complexos para focar na funcionali
 ## 3. Reconhecimento de Padrões
 * **Reutilização de Componentes:** Padronização de cards de produtos e botões de ação em toda a interface (estética brutalista).
 * **Persistência:** Uso do padrão Singleton para gerenciar a conexão com o banco de dados MySQL.
+-
