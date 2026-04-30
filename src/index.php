@@ -1,5 +1,5 @@
 <?php
-// AXIS LAB. E-commerce - Protótipo Inicial
+// AXIS LAB. E-commerce - Protótipo Inicial 
 
 $catalog = [
     [
