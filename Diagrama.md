@@ -7,7 +7,7 @@ Este diagrama mostra como as principais entidades do banco de dados se relaciona
 
 <img width="1240" height="864" alt="diagrama_axis-trabalho" src="https://github.com/user-attachments/assets/e44a7c2c-a295-4d8e-8eb3-46596d161409" />
 
-
+-
 ```mermaid
 classDiagram
     class Cliente {
