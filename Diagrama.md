@@ -4,6 +4,10 @@ Aqui estão as representações visuais da estrutura de dados e do fluxo de comp
 
 ## 1. Diagrama de Classes (Entidade-Relacionamento Simplificado)
 Este diagrama mostra como as principais entidades do banco de dados se relacionam.
+
+<img width="1240" height="864" alt="diagrama_axis-trabalho" src="https://github.com/user-attachments/assets/e44a7c2c-a295-4d8e-8eb3-46596d161409" />
+
+
 ```mermaid
 classDiagram
     class Cliente {
@@ -31,7 +35,6 @@ classDiagram
         +float precoUnitario
     }
 
-<img width="1240" height="864" alt="diagrama_axis-trabalho" src="https://github.com/user-attachments/assets/e44a7c2c-a295-4d8e-8eb3-46596d161409" />
 
     Cliente "1" -- "0..*" Pedido : faz
     Pedido "1" -- "1..*" ItemPedido : contem
