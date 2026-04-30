@@ -59,3 +59,4 @@ Conforme a organização definida para a atividade:
 * **Local:** Repositório GitHub da disciplina.
 * **Commit:** "Entrega Projeto Aula – Pensamento Computacional para Sistemas de Larga Escala".
 Performance: Otimização de imagens de alta qualidade (essenciais para moda) sem comprometer o carregamento da página.
+-
